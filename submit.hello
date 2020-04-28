@@ -1,0 +1,6 @@
+Executable = hello
+Universe = vanilla
+Output = hello.out
+Log = hello.log
+
+Queue
